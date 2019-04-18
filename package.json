@@ -1,0 +1,16 @@
+{
+  "name": "simple_service_worker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sw_cached_pages.js",
+  "scripts": {
+    "start": "node erver.js"
+  },
+ 
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
