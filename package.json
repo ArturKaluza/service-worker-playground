@@ -2,11 +2,9 @@
   "name": "simple_service_worker",
   "version": "1.0.0",
   "description": "",
-  "main": "sw_cached_pages.js",
   "scripts": {
-    "start": "node erver.js"
+    "start": "node server.js"
   },
- 
   "keywords": [],
   "author": "",
   "license": "ISC",
